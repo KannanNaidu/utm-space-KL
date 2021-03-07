@@ -1,6 +1,8 @@
 # utm-space-KL
 Source files and resources for website training at UTM Space Kuala Lumpur . 8th March - 12th March
 
+![alt text][logo]
+
 [logo]: https://github.com/KannanNaidu/kannannaidu.github.io/raw/master/images/web-icon.jpg "Kannan Naidu Venugopal Logo Icon"
 
 ## Download Resources
