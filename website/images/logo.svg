@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 450 423" style="enable-background:new 0 0 450 423;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#050EF2;}
+	.st1{fill:#DD851D;}
+	.st2{fill:#DD851D;stroke:#E5E5E5;}
+	.st3{fill:#DD851D;stroke:#DD851D;stroke-opacity:1.000000e-02;}
+	.st4{fill:#FFFFFF;}
+</style>
+<path id="hse" class="st0" d="M131.8,147v122l35,13c44.8-45.6,134-65.7,173-70v-60l-105-71l-39,19V81h-34v44L131.8,147z"/>
+<g id="c_wave">
+	<path class="st1" d="M348.8,218C212,239.6,116.5,331.7,85.8,375c10.4,17.6,42.3,28.7,57,32C168.4,322.2,290.8,245.7,348.8,218z"/>
+	<path class="st1" d="M447.8,217c-121.6,36.8-184,150.7-200,203c36,6.4,91.7-25.3,115-42C362.8,323.6,419.5,248,447.8,217z"/>
+</g>
+<g id="b_wav">
+	<path class="st0" d="M2.8,243c8,57.6,48.7,105.3,68,122c20-8.8,60.3-55,78-77C100,256.8,31.1,245,2.8,243z"/>
+	<path class="st0" d="M424.8,211c-155.2,17.6-247.3,140.7-274,200c25.6,12,68,11.7,86,10C276.8,305.8,378.8,233,424.8,211z"/>
+	<path class="st0" d="M370.8,371c12-33.3,43.2-106.2,72-131C440.5,274.3,422.8,348.6,370.8,371z"/>
+</g>
+<g id="tree">
+	<path class="st2" d="M46.8,2c-80,136.8-37.3,197-6,210v28h15v-28C127,193.6,79.5,64.3,46.8,2z"/>
+	<path class="st3" d="M406.7,35c-57.5,98.9-26.8,142.4-4.3,151.8V207h10.8v-20.2C464.3,173.5,430.2,80,406.7,35z"/>
+</g>
+<g id="window">
+	<rect x="186.8" y="138" class="st4" width="38" height="34"/>
+	<rect x="186.8" y="183" class="st4" width="38" height="34"/>
+	<rect x="242.8" y="138" class="st4" width="38" height="34"/>
+	<rect x="242.8" y="183" class="st4" width="38" height="34"/>
+</g>
+</svg>
