@@ -1,5 +1,5 @@
 # utm-space-KL
-Source files and resources for website training at UTM Space Kuala Lumpur . 8th March - 12th March
+Source files and resources for website training at UTM Space Kuala Lumpur - 8th March - 12th March and JB Persada 15th March - 19th March 2021
 
 ![alt text][logo]
 
