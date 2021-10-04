@@ -23,8 +23,3 @@ Source files and resources for website training at UTM Space Kuala Lumpur - 8th 
 [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/ "WebAIM Color Contrast Checker")
 
 [OGP](https://ogp.me/ "Open Graph Protocol")
-
-
-
-## Subscribe for YT
-[YouTube Notification](https://forms.gle/5vcE6y7aSt3KPY7j6/ "YouTube Notification")
